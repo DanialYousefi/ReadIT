@@ -1,2 +1,2 @@
-# DanialYousefi.github.io
+# ReadIT
 Assignment 2 website 
